@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="plotgradlempp-js-0.0.1">
+    <output-path>C:\Users\natan\Desktop\plotgradlempp\build\libs</output-path>
+    <root id="archive" name="plotgradlempp-js-0.0.1.jar">
+      <element id="module-output" name="com.example.plotgradlempp.jsMain" />
+    </root>
+  </artifact>
+</component>
