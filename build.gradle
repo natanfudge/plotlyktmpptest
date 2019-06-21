@@ -51,6 +51,7 @@ kotlin {
         jsMain {
             dependencies {
                 implementation kotlin('stdlib-js')
+                implementation "scientifik:plotlykt-core-js:0.1.1"
             }
         }
         jsTest {
